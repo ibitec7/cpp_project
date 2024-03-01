@@ -1,0 +1,19 @@
+Ibrahim:36
+Ali:42
+Mustansir:10
+Taimoor:12
+Ahmed:89
+Daud:94
+Rukhsana:76
+Rashida:61
+Razia:23
+Shahbaz:8
+Kamran:97
+Mahnoor:25
+Mehboob:64
+Rashid:78
+
+The average grade is: 51.0714
+The lowest grade is: 8
+The maximum grade is: 97
+The total students are: 14
